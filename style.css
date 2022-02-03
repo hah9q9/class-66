@@ -1,0 +1,28 @@
+body{
+    scroll-behavior: smooth;
+   background-color: black;
+    
+}
+
+h1{
+    color: white;
+}
+
+#Games{
+    background: linear-gradient(
+        to right,
+        purple 15%,   
+        blue 50%,
+         blue 50%,
+          purple 93%);
+}
+
+#chatbot{
+    background: linear-gradient(
+        to right,
+        purple 15%,   
+          green 50%,
+         green 50%,
+          purple 93%);
+}
+}
