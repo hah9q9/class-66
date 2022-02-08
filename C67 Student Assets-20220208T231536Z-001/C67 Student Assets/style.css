@@ -1,0 +1,33 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+
+{
+height: 300px;
+Margin-top: 35px;}
+
+.carousel-inner p{
+Margin-top: 15px;
+color : white;
+font-size: 20px;
+}
+
+ 
+
+ 
+
+ 
+
+ 
